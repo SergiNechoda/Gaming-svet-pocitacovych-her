@@ -97,6 +97,9 @@ Pomocí matematiky můžeme vypočítat například průměrný herní čas.
 
 Pokud hráč hraje 14 hodin během 7 dní, jeho průměr je 2 hodiny denně.
 
+<img width="1400" height="700" alt="gaming" src="https://github.com/user-attachments/assets/2bc278ee-6e73-4650-95dd-6595013ea990" />
+
+
 ## 9. Vývojový diagram – spuštění hry
 
 ```mermaid
